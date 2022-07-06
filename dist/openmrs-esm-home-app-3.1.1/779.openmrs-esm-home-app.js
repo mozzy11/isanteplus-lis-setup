@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_openmrs_esm_home_app=self.webpackChunk_openmrs_esm_home_app||[]).push([[779],{779:(e,s,t)=>{t.r(s),t.d(s,{default:()=>m});var n=t(297),a=t(512);function m(){return n.default.createElement(a.ConfigurableLink,{to:"${openmrsBase}/coreapps/systemadministration/systemAdministration.page"},"System Administration")}}}]);
+//# sourceMappingURL=779.openmrs-esm-home-app.js.map

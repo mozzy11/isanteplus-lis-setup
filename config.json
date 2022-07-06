@@ -1,0 +1,11 @@
+{ 
+  "@openmrs/esm-template-app": {
+    "whoToGreet": [
+      "mum",
+      "mozzy",
+      "dad",
+      "dad"
+    ],
+    "casualGreeting": false
+  }
+}
